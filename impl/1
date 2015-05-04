@@ -1,0 +1,8 @@
+class Multiset
+   def initialize?
+     
+   def contains?
+   def contains(n)?
+
+
+end
